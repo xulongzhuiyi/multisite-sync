@@ -1,0 +1,15 @@
+/* admin/css/admin.css */
+.ms-sync-meta-box {
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.ms-sync-meta-box label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.ms-sync-meta-box .sync-button {
+    margin-top: 10px;
+}
